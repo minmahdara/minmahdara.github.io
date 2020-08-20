@@ -5,7 +5,16 @@
     <link>https://minmahdara.github.io//</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate><atom:link href="https://minmahdara.github.io//index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Aug 2020 00:30:39 +0800</lastBuildDate><atom:link href="https://minmahdara.github.io//index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing This</title>
+      <link>https://minmahdara.github.io//testing-this/</link>
+      <pubDate>Fri, 21 Aug 2020 00:30:39 +0800</pubDate>
+      
+      <guid>https://minmahdara.github.io//testing-this/</guid>
+      <description>Halo Halo This is a new post. I am just testing it.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://minmahdara.github.io//page/about/</link>
